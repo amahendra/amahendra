@@ -41,9 +41,9 @@ I provide open-access repositories for my students and the global community. The
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/amahendra]([Link to your LinkedIn])
-- **Academy:** [SmartX Academy]([Link to SmartX Academy])
-- **Company:** [Centaurops](https://centaurops.com)
-- **Email:** [Your Email Address]
+- **LinkedIn:** [linkedin.com/in/amahendra]
+- **Academy:** [www.smartxacademy.com]
+- **Company:** [Centaurops](www.centaurops.com)
+- **Email:** [amahendra@bundamulia.ac.id]
 
-*"Innovating at the intersection of Intelligence and Connectivity."*
+*"Innovating at the intersection of Artificial Intelligence and Industry."*
