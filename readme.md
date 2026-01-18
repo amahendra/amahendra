@@ -1,4 +1,4 @@
-# Hi there, I'm Amahendra 👋 
+# Hi there, I'm Adhiguna Mahendra 👋 
 **Author | CTO | Lecturer | AI & IoT Specialist**
 
 I am a technologist and academic dedicated to bridging the gap between complex AI research and scalable industrial applications. Currently, I serve as the **CTO of Centaurops**, **Founder of SmartX Academy**, and a **Lecturer at Bunda Mulia University**.
@@ -32,18 +32,11 @@ I provide open-access repositories for my students and the global community. The
 
 ---
 
-### 📊 GitHub Insights
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amahendra&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amahendra&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/amahendra]
+- **LinkedIn:** [www.linkedin.com/in/amahendra]
 - **Academy:** [www.smartxacademy.com]
-- **Company:** [Centaurops](www.centaurops.com)
+- **Company:** [www.centaurops.com]
 - **Email:** [amahendra@bundamulia.ac.id]
 
 *"Innovating at the intersection of Artificial Intelligence and Industry."*
