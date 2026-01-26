@@ -22,7 +22,10 @@ I provide open-access repositories for my students and the global community. The
 * 🧠 **[Deep Learning](https://github.com/amahendra/deep-learning-ubm)** – Neural Networks, CNNs, Transformers, and LLM fundamentals.
 * 👁️ **[Computer Vision](https://github.com/amahendra/computer-vision-ubm)** – Object detection, segmentation, and real-time video analytics.
 * 🖼️ **[Digital Image Processing](https://github.com/amahendra/digital-image-processing-ubm)** – Filtering, morphology, and spatial transformations using Python & OpenCV.
+* 🧠 **[Artificial Intelligence](https://github.com/amahendra/artificial-intelligence-ubm)** – Foundations of AI, search algorithms, logic, and automated reasoning.
+* 🌐 **[Internet of Things (IoT)](https://github.com/amahendra/iot-ubm)** – Smart sensors, edge computing, and hardware-to-cloud integration.
 
+🌐 Internet of Things (IoT) – Smart sensors, edge computing, and hardware-to-cloud integration.
 ---
 
 ### 🚀 Expertise & Research
