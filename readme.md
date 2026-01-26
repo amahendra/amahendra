@@ -1,5 +1,5 @@
 # Hi there, I'm Adhiguna Mahendra 👋 
-**Author | CTO | Lecturer | AI & IoT Specialist**
+**Author | CTO | Lecturer | AI & IoT Full Stack Engineer**
 
 I am a technologist and academic dedicated to bridging the gap between complex AI research and scalable industrial applications. Currently, I serve as the **CTO of Centaurops**, **Founder of SmartX Academy**, and a **Lecturer at Bunda Mulia University**.
 
