@@ -12,7 +12,7 @@ I have authored several books on AI strategy and intelligent system design publi
 | :--- | :--- | :--- |
 | **AI Startup Strategy** | Apress | [Visit Website](https://www.aistartupstrategy.com) |
 | **Intelligent Video Analytics** | De Gruyter | [View on Amazon](https://a.co/d/3hcPhMx) |
-| **Intelligent IoT Analytics** | De Gruyter | [View on Amazon](https://a.co/d/d8OZMa3) |
+| **Intelligent IoT Analytics** | De Gruyter | [View on Amazon](https://a.co/d/3ZVc5Cu) |
 
 ---
 
