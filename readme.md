@@ -25,13 +25,18 @@ I provide open-access repositories for my students and the global community. The
 * 🧠 **[Artificial Intelligence](https://github.com/amahendra/artificial-intelligence-ubm)** – Foundations of AI, search algorithms, logic, and automated reasoning.
 * 🌐 **[Internet of Things (IoT)](https://github.com/amahendra/iot-ubm)** – Smart sensors, edge computing, and hardware-to-cloud integration.
 
-🌐 Internet of Things (IoT) – Smart sensors, edge computing, and hardware-to-cloud integration.
+
 ---
 
 ### 🚀 Expertise & Research
 * **Agentic & LLM Systems:** Developing autonomous AI agents and large language model workflows.
 * **AI Product Management:** Bridging the gap between engineering and business value at **SmartX Academy**.
 * **Startup Scaling:** Operations and AI deployment strategy as **CTO of Centaurops**.
+* **Computer Vision & Video Analytics:** Object detection, segmentation, and real-time video performance tracking.
+* **GeoAI:** Leveraging geospatial intelligence for regional risk assessment and targeting.
+* **Digital Twins & Simulations:** Modeling social media ecosystems and campaign performance forecasts.
+* **AI Product Management:** Bridging the gap between engineering and business value at **SmartX Academy**.
+* **Enterprise AI Strategy:** Implementing scalable AI frameworks for organizational transformation.
 
 ---
 
